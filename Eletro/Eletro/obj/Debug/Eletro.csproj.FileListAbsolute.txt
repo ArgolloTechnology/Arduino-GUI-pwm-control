@@ -19,3 +19,13 @@ E:\Eletro\Eletro\obj\Debug\Eletro.csproj.CoreCompileInputs.cache
 E:\Eletro\Eletro\obj\Debug\Eletro.exe
 E:\Eletro\Eletro\obj\Debug\Eletro.pdb
 E:\Eletro\Eletro\obj\Debug\Eletro.csproj.SuggestedBindingRedirects.cache
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\obj\Debug\Eletro.csproj.AssemblyReference.cache
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\obj\Debug\Eletro.exe
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\obj\Debug\Eletro.pdb
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\bin\Debug\Eletro.exe.config
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\bin\Debug\Eletro.exe
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\bin\Debug\Eletro.pdb
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\obj\Debug\Eletro.Form1.resources
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\obj\Debug\Eletro.Properties.Resources.resources
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\obj\Debug\Eletro.csproj.GenerateResource.cache
+C:\Users\argol\Downloads\Arduino-GUI-pwm-control-main\Arduino-GUI-pwm-control-main\Eletro\Eletro\obj\Debug\Eletro.csproj.CoreCompileInputs.cache

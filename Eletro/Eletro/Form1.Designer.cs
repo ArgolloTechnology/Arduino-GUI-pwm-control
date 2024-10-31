@@ -33,6 +33,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.offButton = new System.Windows.Forms.Button();
+            this.onButton = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.label6 = new System.Windows.Forms.Label();
@@ -46,8 +48,6 @@
             this.panel6 = new System.Windows.Forms.Panel();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.onButton = new System.Windows.Forms.Button();
-            this.offButton = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -91,6 +91,26 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(391, 81);
             this.panel2.TabIndex = 13;
+            // 
+            // offButton
+            // 
+            this.offButton.Location = new System.Drawing.Point(198, 24);
+            this.offButton.Name = "offButton";
+            this.offButton.Size = new System.Drawing.Size(75, 23);
+            this.offButton.TabIndex = 2;
+            this.offButton.Text = "desligar";
+            this.offButton.UseVisualStyleBackColor = true;
+            this.offButton.Click += new System.EventHandler(this.offButton_Click);
+            // 
+            // onButton
+            // 
+            this.onButton.Location = new System.Drawing.Point(117, 24);
+            this.onButton.Name = "onButton";
+            this.onButton.Size = new System.Drawing.Size(75, 23);
+            this.onButton.TabIndex = 1;
+            this.onButton.Text = "ligar";
+            this.onButton.UseVisualStyleBackColor = true;
+            this.onButton.Click += new System.EventHandler(this.onButton_Click);
             // 
             // label3
             // 
@@ -202,7 +222,7 @@
             // 
             // serialPort1
             // 
-            this.serialPort1.PortName = "COM4";
+            this.serialPort1.PortName = "COM3";
             // 
             // panel6
             // 
@@ -236,26 +256,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // onButton
-            // 
-            this.onButton.Location = new System.Drawing.Point(117, 24);
-            this.onButton.Name = "onButton";
-            this.onButton.Size = new System.Drawing.Size(75, 23);
-            this.onButton.TabIndex = 1;
-            this.onButton.Text = "ligar";
-            this.onButton.UseVisualStyleBackColor = true;
-            this.onButton.Click += new System.EventHandler(this.onButton_Click);
-            // 
-            // offButton
-            // 
-            this.offButton.Location = new System.Drawing.Point(198, 24);
-            this.offButton.Name = "offButton";
-            this.offButton.Size = new System.Drawing.Size(75, 23);
-            this.offButton.TabIndex = 2;
-            this.offButton.Text = "desligar";
-            this.offButton.UseVisualStyleBackColor = true;
-            this.offButton.Click += new System.EventHandler(this.offButton_Click);
             // 
             // Form1
             // 
