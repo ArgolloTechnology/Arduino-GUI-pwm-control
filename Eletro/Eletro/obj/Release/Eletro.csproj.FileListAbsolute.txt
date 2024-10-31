@@ -1,0 +1,10 @@
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\bin\Release\Eletro.exe.config
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\bin\Release\Eletro.exe
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\bin\Release\Eletro.pdb
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\obj\Release\Eletro.csproj.AssemblyReference.cache
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\obj\Release\Eletro.Form1.resources
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\obj\Release\Eletro.Properties.Resources.resources
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\obj\Release\Eletro.csproj.GenerateResource.cache
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\obj\Release\Eletro.csproj.CoreCompileInputs.cache
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\obj\Release\Eletro.exe
+D:\Git Repositorios\Arduino-GUI-pwm-control\Eletro\Eletro\obj\Release\Eletro.pdb
